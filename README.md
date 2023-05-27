@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Faria</h1>
-<h3 align="center">I'm a 20 years old student at "Universidade do Minho", studying Software Engineering</h3>
+<h3 align="center">I'm a 19 years old student at "Universidade do Minho", studying Software Engineering</h3>
 
 - 📫 How to reach me **joaofaria13@gmail.com**
 
