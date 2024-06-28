@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Faria</h1>
-<h3 align="center">A Software Engineering student @ Universidade do Minho</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogdfaria&label=Profile%20visits&color=81e9a9&style=flat-square" alt="joaogdfaria" /> </p>
+<h3 align="center"> Software Engineering graduate @ Universidade do Minho</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
